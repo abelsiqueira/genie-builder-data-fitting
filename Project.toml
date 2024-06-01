@@ -1,0 +1,9 @@
+[deps]
+ADNLPModels = "54578032-b7ea-4c30-94aa-7cbd1cce6c9a"
+CSV = "336ed68f-0bac-5ca0-87d4-7b16caf5d00b"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+GenieFramework = "a59fdf5c-6bf0-4f5d-949c-a137c9e2f353"
+JSOSolvers = "10dff2fc-5484-5881-a0e0-c90441020f8a"
+
+[Genie]
+instantiated_pwd = "c:\\Users\\abels\\personal-projects\\youtube-internal\\LikeAndSubscribe"

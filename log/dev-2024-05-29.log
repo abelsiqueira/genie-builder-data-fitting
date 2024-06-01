@@ -1,0 +1,378 @@
+┌ Info: 2024-05-29 20:38:02 Watching ["c:\\Users\\abels\\personal-projects\\youtube-internal\\LikeAndSubscribe"]
+└ @ GenieAutoReload C:\Users\abels\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-05-29 20:38:07 Watching ["c:\\Users\\abels\\personal-projects\\youtube-internal\\LikeAndSubscribe"]
+└ @ GenieAutoReload C:\Users\abels\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-05-29 20:38:08 
+│ Web Server starting at http://127.0.0.1:9104?CHANNEL__=STEIDAFBFMPYGOFHIRNHAGXUCJLGSTND 
+└ @ Genie.Server C:\Users\abels\.julia\packages\Genie\w41yU\src\Server.jl:182
+┌ Info: 2024-05-29 20:38:08 Listening on: 127.0.0.1:9104, thread id: 1
+└ @ HTTP.Servers C:\Users\abels\.julia\packages\HTTP\sJD5V\src\Servers.jl:382
+┌ Info: 2024-05-29 20:39:50 Autoreloading
+└ @ GenieAutoReload C:\Users\abels\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-05-29 20:41:02 Autoreloading
+└ @ GenieAutoReload C:\Users\abels\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-05-29 20:41:22 Autoreloading
+└ @ GenieAutoReload C:\Users\abels\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-05-29 20:41:34 Autoreloading
+└ @ GenieAutoReload C:\Users\abels\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-05-29 20:42:54 Autoreloading
+└ @ GenieAutoReload C:\Users\abels\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-05-29 20:43:00 Autoreloading
+└ @ GenieAutoReload C:\Users\abels\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-05-29 20:43:44 Autoreloading
+└ @ GenieAutoReload C:\Users\abels\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-05-29 20:43:55 Autoreloading
+└ @ GenieAutoReload C:\Users\abels\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-05-29 20:44:04 Autoreloading
+└ @ GenieAutoReload C:\Users\abels\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-05-29 20:45:01 Autoreloading
+└ @ GenieAutoReload C:\Users\abels\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-05-29 20:45:05 Autoreloading
+└ @ GenieAutoReload C:\Users\abels\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-05-29 20:45:21 Autoreloading
+└ @ GenieAutoReload C:\Users\abels\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-05-29 20:45:26 Autoreloading
+└ @ GenieAutoReload C:\Users\abels\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-05-29 20:45:34 Autoreloading
+└ @ GenieAutoReload C:\Users\abels\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-05-29 20:46:11 Autoreloading
+└ @ GenieAutoReload C:\Users\abels\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-05-29 20:46:18 Autoreloading
+└ @ GenieAutoReload C:\Users\abels\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-05-29 20:47:01 Autoreloading
+└ @ GenieAutoReload C:\Users\abels\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-05-29 20:47:07 Autoreloading
+└ @ GenieAutoReload C:\Users\abels\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-05-29 20:47:15 Autoreloading
+└ @ GenieAutoReload C:\Users\abels\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-05-29 20:47:21 Autoreloading
+└ @ GenieAutoReload C:\Users\abels\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-05-29 20:47:29 Autoreloading
+└ @ GenieAutoReload C:\Users\abels\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-05-29 20:50:09 Autoreloading
+└ @ GenieAutoReload C:\Users\abels\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-05-29 20:50:45 Autoreloading
+└ @ GenieAutoReload C:\Users\abels\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-05-29 20:54:38 Autoreloading
+└ @ GenieAutoReload C:\Users\abels\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-05-29 20:55:22 Autoreloading
+└ @ GenieAutoReload C:\Users\abels\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Error: 2024-05-29 20:55:23 type #data has no field x
+│ Stacktrace:
+│   [1] getproperty(x::Function, f::Symbol)
+│     @ Base .\Base.jl:37
+│   [2] Main.App.var"##Main.App_ReactiveModel!#238"()
+│     @ Main.App C:\Users\abels\.julia\packages\Stipple\0khJ6\src\Stipple.jl:1046
+│   [3] #invokelatest#2
+│     @ .\essentials.jl:892 [inlined]
+│   [4] invokelatest
+│     @ .\essentials.jl:889 [inlined]
+│   [5] |>
+│     @ .\operators.jl:917 [inlined]
+│   [6] init(t::Type{Main.App.var"Main.App_ReactiveModel"}; vue_app_name::String, endpoint::String, channel::Any, debounce::Int64, transport::Module, core_theme::Bool, always_register_channels::Bool)
+│     @ Stipple C:\Users\abels\.julia\packages\Stipple\0khJ6\src\Stipple.jl:508
+│   [7] init(t::Type{Main.App.var"Main.App_ReactiveModel"})
+│     @ Stipple C:\Users\abels\.julia\packages\Stipple\0khJ6\src\Stipple.jl:496
+│   [8] top-level scope
+│     @ C:\Users\abels\.julia\packages\Stipple\0khJ6\src\ReactiveTools.jl:762
+│   [9] eval
+│     @ .\boot.jl:385 [inlined]
+│  [10] (::Stipple.ReactiveTools.var"#32#34"{Module, Vector{Any}})()
+│     @ Stipple.ReactiveTools C:\Users\abels\.julia\packages\Stipple\0khJ6\src\ReactiveTools.jl:1188
+│  [11] #invokelatest#2
+│     @ .\essentials.jl:892 [inlined]
+│  [12] invokelatest
+│     @ .\essentials.jl:889 [inlined]
+│  [13] (::Stipple.Pages.var"#7#10"{FilePathsBase.WindowsPath, String, @Kwargs{}})()
+│     @ Stipple.Pages C:\Users\abels\.julia\packages\Stipple\0khJ6\src\Pages.jl:68
+│  [14] run_route(r::Genie.Router.Route)
+│     @ Genie.Router C:\Users\abels\.julia\packages\Genie\w41yU\src\Router.jl:547
+│  [15] route_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Router C:\Users\abels\.julia\packages\Genie\w41yU\src\Router.jl:172
+│  [16] route_request
+│     @ C:\Users\abels\.julia\packages\Genie\w41yU\src\Router.jl:147 [inlined]
+│  [17] handle_request(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server C:\Users\abels\.julia\packages\Genie\w41yU\src\Server.jl:300
+│  [18] handle_request
+│     @ C:\Users\abels\.julia\packages\Genie\w41yU\src\Server.jl:292 [inlined]
+│  [19] (::Genie.Server.var"#27#28"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response})()
+│     @ Genie.Server C:\Users\abels\.julia\juliaup\julia-1.10.2+0.x64.w64.mingw32\share\julia\stdlib\v1.10\Distributed\src\macros.jl:123
+│  [20] #invokelatest#2
+│     @ .\essentials.jl:892 [inlined]
+│  [21] invokelatest
+│     @ .\essentials.jl:889 [inlined]
+│  [22] #153
+│     @ C:\Users\abels\.julia\juliaup\julia-1.10.2+0.x64.w64.mingw32\share\julia\stdlib\v1.10\Distributed\src\remotecall.jl:425 [inlined]
+│  [23] run_work_thunk(thunk::Distributed.var"#153#154"{Genie.Server.var"#27#28"{HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}}, HTTP.Messages.Request, HTTP.Messages.Response}, Tuple{}, @Kwargs{}}, print_error::Bool)
+│     @ Distributed C:\Users\abels\.julia\juliaup\julia-1.10.2+0.x64.w64.mingw32\share\julia\stdlib\v1.10\Distributed\src\process_messages.jl:70
+│  [24] #remotecall_fetch#158
+│     @ C:\Users\abels\.julia\juliaup\julia-1.10.2+0.x64.w64.mingw32\share\julia\stdlib\v1.10\Distributed\src\remotecall.jl:450 [inlined]
+│  [25] remotecall_fetch
+│     @ C:\Users\abels\.julia\juliaup\julia-1.10.2+0.x64.w64.mingw32\share\julia\stdlib\v1.10\Distributed\src\remotecall.jl:449 [inlined]
+│  [26] remotecall_fetch
+│     @ C:\Users\abels\.julia\juliaup\julia-1.10.2+0.x64.w64.mingw32\share\julia\stdlib\v1.10\Distributed\src\remotecall.jl:492 [inlined]
+│  [27] setup_http_listener(req::HTTP.Messages.Request, res::HTTP.Messages.Response; stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server C:\Users\abels\.julia\packages\Genie\w41yU\src\Server.jl:344
+│  [28] setup_http_listener (repeats 2 times)
+│     @ C:\Users\abels\.julia\packages\Genie\w41yU\src\Server.jl:342 [inlined]
+│  [29] (::Genie.Server.var"#24#25"{typeof(Genie.Server.setup_http_listener)})(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server C:\Users\abels\.julia\packages\Genie\w41yU\src\Server.jl:313
+│  [30] setup_http_streamer(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server C:\Users\abels\.julia\packages\Genie\w41yU\src\Server.jl:333
+│  [31] (::Genie.Server.var"#6#12")(stream::HTTP.Streams.Stream{HTTP.Messages.Request, HTTP.Connections.Connection{Sockets.TCPSocket}})
+│     @ Genie.Server C:\Users\abels\.julia\packages\Genie\w41yU\src\Server.jl:124
+│  [32] #invokelatest#2
+│     @ .\essentials.jl:892 [inlined]
+│  [33] invokelatest
+│     @ .\essentials.jl:889 [inlined]
+│  [34] handle_connection(f::Function, c::HTTP.Connections.Connection{Sockets.TCPSocket}, listener::HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, readtimeout::Int64, access_log::Nothing)
+│     @ HTTP.Servers C:\Users\abels\.julia\packages\HTTP\sJD5V\src\Servers.jl:469
+│  [35] (::HTTP.Servers.var"#16#17"{Genie.Server.var"#6#12", HTTP.Servers.Listener{Nothing, Sockets.TCPServer}, Set{HTTP.Connections.Connection}, Int64, Nothing, ReentrantLock, Base.Semaphore, HTTP.Connections.Connection{Sockets.TCPSocket}})()
+│     @ HTTP.Servers C:\Users\abels\.julia\packages\HTTP\sJD5V\src\Servers.jl:401
+│ 
+└ @ Genie.Server C:\Users\abels\.julia\packages\Genie\w41yU\src\Server.jl:356
+┌ Info: 2024-05-29 20:57:26 Autoreloading
+└ @ GenieAutoReload C:\Users\abels\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-05-29 20:57:47 Watching ["c:\\Users\\abels\\personal-projects\\youtube-internal\\LikeAndSubscribe"]
+└ @ GenieAutoReload C:\Users\abels\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-05-29 20:57:53 Watching ["c:\\Users\\abels\\personal-projects\\youtube-internal\\LikeAndSubscribe"]
+└ @ GenieAutoReload C:\Users\abels\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-05-29 20:57:54 
+│ Web Server starting at http://127.0.0.1:9104?CHANNEL__=STEIDAFBFMPYGOFHIRNHAGXUCJLGSTND 
+└ @ Genie.Server C:\Users\abels\.julia\packages\Genie\w41yU\src\Server.jl:182
+┌ Info: 2024-05-29 20:57:54 Listening on: 127.0.0.1:9104, thread id: 1
+└ @ HTTP.Servers C:\Users\abels\.julia\packages\HTTP\sJD5V\src\Servers.jl:382
+┌ Info: 2024-05-29 20:58:48 Autoreloading
+└ @ GenieAutoReload C:\Users\abels\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-05-29 20:58:50 Autoreloading
+└ @ GenieAutoReload C:\Users\abels\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-05-29 20:58:53 Autoreloading
+└ @ GenieAutoReload C:\Users\abels\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-05-29 21:00:05 Autoreloading
+└ @ GenieAutoReload C:\Users\abels\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-05-29 21:00:17 Autoreloading
+└ @ GenieAutoReload C:\Users\abels\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-05-29 21:00:34 Autoreloading
+└ @ GenieAutoReload C:\Users\abels\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-05-29 21:01:42 Autoreloading
+└ @ GenieAutoReload C:\Users\abels\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-05-29 21:02:24 Autoreloading
+└ @ GenieAutoReload C:\Users\abels\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-05-29 21:02:51 Autoreloading
+└ @ GenieAutoReload C:\Users\abels\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-05-29 21:03:06 Autoreloading
+└ @ GenieAutoReload C:\Users\abels\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-05-29 21:03:10 Autoreloading
+└ @ GenieAutoReload C:\Users\abels\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-05-29 21:03:58 Watching ["c:\\Users\\abels\\personal-projects\\youtube-internal\\LikeAndSubscribe"]
+└ @ GenieAutoReload C:\Users\abels\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-05-29 21:04:05 Watching ["c:\\Users\\abels\\personal-projects\\youtube-internal\\LikeAndSubscribe"]
+└ @ GenieAutoReload C:\Users\abels\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-05-29 21:04:06 
+│ Web Server starting at http://127.0.0.1:9104?CHANNEL__=STEIDAFBFMPYGOFHIRNHAGXUCJLGSTND 
+└ @ Genie.Server C:\Users\abels\.julia\packages\Genie\w41yU\src\Server.jl:182
+┌ Info: 2024-05-29 21:04:06 Listening on: 127.0.0.1:9104, thread id: 1
+└ @ HTTP.Servers C:\Users\abels\.julia\packages\HTTP\sJD5V\src\Servers.jl:382
+┌ Info: 2024-05-29 21:06:11 Watching ["c:\\Users\\abels\\personal-projects\\youtube-internal\\LikeAndSubscribe"]
+└ @ GenieAutoReload C:\Users\abels\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-05-29 21:06:17 Watching ["c:\\Users\\abels\\personal-projects\\youtube-internal\\LikeAndSubscribe"]
+└ @ GenieAutoReload C:\Users\abels\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-05-29 21:06:18 
+│ Web Server starting at http://127.0.0.1:9101?CHANNEL__=KXFORFODWFRXKGAPUNWMCLPOFXAGNAMB 
+└ @ Genie.Server C:\Users\abels\.julia\packages\Genie\w41yU\src\Server.jl:182
+┌ Info: 2024-05-29 21:06:18 Listening on: 127.0.0.1:9101, thread id: 1
+└ @ HTTP.Servers C:\Users\abels\.julia\packages\HTTP\sJD5V\src\Servers.jl:382
+┌ Info: 2024-05-29 21:07:18 Autoreloading
+└ @ GenieAutoReload C:\Users\abels\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-05-29 21:07:46 Autoreloading
+└ @ GenieAutoReload C:\Users\abels\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-05-29 21:07:49 Autoreloading
+└ @ GenieAutoReload C:\Users\abels\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-05-29 21:09:00 Autoreloading
+└ @ GenieAutoReload C:\Users\abels\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-05-29 21:09:24 Watching ["c:\\Users\\abels\\personal-projects\\youtube-internal\\LikeAndSubscribe"]
+└ @ GenieAutoReload C:\Users\abels\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-05-29 21:09:31 Watching ["c:\\Users\\abels\\personal-projects\\youtube-internal\\LikeAndSubscribe"]
+└ @ GenieAutoReload C:\Users\abels\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-05-29 21:09:32 
+│ Web Server starting at http://127.0.0.1:9101?CHANNEL__=KXFORFODWFRXKGAPUNWMCLPOFXAGNAMB 
+└ @ Genie.Server C:\Users\abels\.julia\packages\Genie\w41yU\src\Server.jl:182
+┌ Info: 2024-05-29 21:09:32 Listening on: 127.0.0.1:9101, thread id: 1
+└ @ HTTP.Servers C:\Users\abels\.julia\packages\HTTP\sJD5V\src\Servers.jl:382
+┌ Info: 2024-05-29 21:09:35 Autoreloading
+└ @ GenieAutoReload C:\Users\abels\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-05-29 21:09:42 Autoreloading
+└ @ GenieAutoReload C:\Users\abels\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-05-29 21:10:05 Autoreloading
+└ @ GenieAutoReload C:\Users\abels\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-05-29 21:10:13 Autoreloading
+└ @ GenieAutoReload C:\Users\abels\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-05-29 21:10:17 Autoreloading
+└ @ GenieAutoReload C:\Users\abels\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-05-29 21:10:22 Autoreloading
+└ @ GenieAutoReload C:\Users\abels\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-05-29 21:11:42 Autoreloading
+└ @ GenieAutoReload C:\Users\abels\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-05-29 21:11:45 Autoreloading
+└ @ GenieAutoReload C:\Users\abels\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-05-29 21:11:56 Autoreloading
+└ @ GenieAutoReload C:\Users\abels\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-05-29 21:12:14 Autoreloading
+└ @ GenieAutoReload C:\Users\abels\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-05-29 21:12:20 Autoreloading
+└ @ GenieAutoReload C:\Users\abels\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-05-29 21:12:56 Autoreloading
+└ @ GenieAutoReload C:\Users\abels\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-05-29 21:13:56 Autoreloading
+└ @ GenieAutoReload C:\Users\abels\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-05-29 21:14:04 Autoreloading
+└ @ GenieAutoReload C:\Users\abels\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-05-29 21:14:51 Autoreloading
+└ @ GenieAutoReload C:\Users\abels\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-05-29 21:15:46 Autoreloading
+└ @ GenieAutoReload C:\Users\abels\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Warning: 2024-05-29 21:15:51 UndefVarError(:y)
+└ @ Stipple C:\Users\abels\.julia\packages\Stipple\0khJ6\src\Stipple.jl:993
+┌ Info: 2024-05-29 21:16:22 Autoreloading
+└ @ GenieAutoReload C:\Users\abels\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-05-29 21:17:38 Autoreloading
+└ @ GenieAutoReload C:\Users\abels\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-05-29 21:18:23 Autoreloading
+└ @ GenieAutoReload C:\Users\abels\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-05-29 21:18:27 Autoreloading
+└ @ GenieAutoReload C:\Users\abels\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-05-29 21:18:44 Autoreloading
+└ @ GenieAutoReload C:\Users\abels\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-05-29 21:18:51 Autoreloading
+└ @ GenieAutoReload C:\Users\abels\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-05-29 21:18:54 Autoreloading
+└ @ GenieAutoReload C:\Users\abels\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-05-29 21:19:03 Autoreloading
+└ @ GenieAutoReload C:\Users\abels\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-05-29 21:19:10 Autoreloading
+└ @ GenieAutoReload C:\Users\abels\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-05-29 21:20:34 Autoreloading
+└ @ GenieAutoReload C:\Users\abels\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-05-29 21:21:48 Autoreloading
+└ @ GenieAutoReload C:\Users\abels\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-05-29 21:22:21 Autoreloading
+└ @ GenieAutoReload C:\Users\abels\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-05-29 21:22:36 Autoreloading
+└ @ GenieAutoReload C:\Users\abels\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-05-29 21:22:47 Autoreloading
+└ @ GenieAutoReload C:\Users\abels\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Error: 2024-05-29 21:24:32 Failed to revise c:\Users\abels\personal-projects\youtube-internal\LikeAndSubscribe\app.jl
+│   exception = (Base.Meta.ParseError("ParseError:\n# Error @ c:\\Users\\abels\\personal-projects\\youtube-internal\\LikeAndSubscribe\\app.jl:29:9\n\n        fit_x = range(extrema(data.x)..., length=100)\n#       └──────────────────────────┘ ── Expected `)`", Base.JuliaSyntax.ParseError(Base.JuliaSyntax.SourceFile("module App\n# set up Genie development environment\nusing GenieFramework\n@genietools\n\nusing CSV, DataFrames, LinearAlgebra, ADNLPModels, JSOSolvers\n\n# add your data analysis code\ndata = CSV.read(joinpath(@__DIR__, \"data\", \"thurber.csv\"), DataFrame)\n\n# add reactive code to make the UI interactive\n@app begin\n    # reactive variables are tagged with @in and @out\n    @out data_x = data.x\n    @out data_y = data.y\n    @in trigger_fit = false\n    @out fit_x = Float64[]\n    @out fit_y = Float64[]\n    @in top_degree = 1\n    @in bottom_degree = 1\n    # @in λ = 1.0\n\n    # watch a variable and execute a block of code when\n    # its value changes\n    @onbutton trigger_fit begin\n        n = size(data, 1)\n        model(β, x) = (β[1] + sum(β[i + 1] * x^i for i = 1:top_degree)) / (1.0 + sum(β[i + 1 + top_degree] * x^i for i = 1:bottom_degree)\n\n        fit_x = range(extrema(data.x)..., length=100)\n        fit_y = β[1] .+ β[2] * fit_x\n    end\n\n    # @onchange λ begin\n    #     # the values of result and msg in the UI will\n    #     # be automatically updated\n    #     n = size(data, 1)\n    #     X = [ones(n) data.x]\n    #     β = (X' * X + λ * I) \\ (X' * data.y)\n\n    #     fit_x = range(extrema(data.x)..., length=100)\n    #     fit_y = β[1] .+ β[2] * fit_x\n    # end\nend\n\n# register a new route and the page that will be\n# loaded on access\n@page(\"/\", \"app.jl.html\")\nend\n", 0, "c:\\Users\\abels\\personal-projects\\youtube-internal\\LikeAndSubscribe\\app.jl", 1, [1, 12, 51, 72, 84, 85, 147, 148, 178, 248, 249, 296, 307, 361, 386, 411, 439, 466, 493, 516, 542, 561, 562, 618, 642, 674, 700, 842, 843, 897, 936, 944, 945, 970, 1026, 1063, 1091, 1122, 1171, 1172, 1228, 1269, 1279, 1283, 1284, 1333, 1352, 1378, 1382]), Base.JuliaSyntax.Diagnostic[Base.JuliaSyntax.Diagnostic(851, 878, :error, "Expected `)`"), Base.JuliaSyntax.Diagnostic(895, 894, :error, "Expected `end`"), Base.JuliaSyntax.Diagnostic(895, 894, :error, "Expected `end`"), Base.JuliaSyntax.Diagnostic(895, 894, :error, "Expected `end`"), Base.JuliaSyntax.Diagnostic(895, 895, :error, "extra tokens after end of expression"), Base.JuliaSyntax.Diagnostic(940, 942, :error, "invalid identifier"), Base.JuliaSyntax.Diagnostic(1279, 1281, :error, "invalid identifier"), Base.JuliaSyntax.Diagnostic(1378, 1380, :error, "invalid identifier")], :none)), Union{Ptr{Nothing}, Base.InterpreterIP}[Ptr{Nothing} @0x00007ffde3a8690b, Ptr{Nothing} @0x00007ffde3a964ea, Ptr{Nothing} @0x00007ffde3a9601c, Ptr{Nothing} @0x00007ffde3a96ba8, Ptr{Nothing} @0x00007ffde3a979ae, Base.InterpreterIP in top-level CodeInfo for Revise at statement 0])
+└ @ Revise C:\Users\abels\.julia\packages\Revise\bAgL0\src\packagedef.jl:724
+┌ Warning: 2024-05-29 21:24:33 The running code does not match the saved version for the following files:
+│ 
+│   c:\Users\abels\personal-projects\youtube-internal\LikeAndSubscribe\app.jl
+│ 
+│ If the error was due to evaluation order, it can sometimes be resolved by calling `Revise.retry()`.
+│ Use Revise.errors() to report errors again. Only the first error in each file is shown.
+│ Your prompt color may be yellow until the errors are resolved.
+└ @ Revise C:\Users\abels\.julia\packages\Revise\bAgL0\src\packagedef.jl:832
+┌ Error: 2024-05-29 21:24:38 Failed to revise c:\Users\abels\personal-projects\youtube-internal\LikeAndSubscribe\app.jl
+│   exception = (Base.Meta.ParseError("ParseError:\n# Error @ c:\\Users\\abels\\personal-projects\\youtube-internal\\LikeAndSubscribe\\app.jl:29:9\n\n        fit_x = range(extrema(data.x)..., length=100)\n#       └──────────────────────────┘ ── Expected `)`", Base.JuliaSyntax.ParseError(Base.JuliaSyntax.SourceFile("module App\n# set up Genie development environment\nusing GenieFramework\n@genietools\n\nusing CSV, DataFrames, LinearAlgebra, ADNLPModels, JSOSolvers\n\n# add your data analysis code\ndata = CSV.read(joinpath(@__DIR__, \"data\", \"thurber.csv\"), DataFrame)\n\n# add reactive code to make the UI interactive\n@app begin\n    # reactive variables are tagged with @in and @out\n    @out data_x = data.x\n    @out data_y = data.y\n    @in trigger_fit = false\n    @out fit_x = Float64[]\n    @out fit_y = Float64[]\n    @in top_degree = 1\n    @in bottom_degree = 1\n    # @in λ = 1.0\n\n    # watch a variable and execute a block of code when\n    # its value changes\n    @onbutton trigger_fit begin\n        n = size(data, 1)\n        model(β, x) = (β[1] + sum(β[i + 1] * x^i for i = 1:top_degree)) / (1.0 + sum(β[i + 1 + top_degree] * x^i for i = 1:bottom_degree)\n\n        fit_x = range(extrema(data.x)..., length=100)\n        fit_y = β[1] .+ β[2] * fit_x\n    end\n\n    # @onchange λ begin\n    #     # the values of result and msg in the UI will\n    #     # be automatically updated\n    #     n = size(data, 1)\n    #     X = [ones(n) data.x]\n    #     β = (X' * X + λ * I) \\ (X' * data.y)\n\n    #     fit_x = range(extrema(data.x)..., length=100)\n    #     fit_y = β[1] .+ β[2] * fit_x\n    # end\nend\n\n# register a new route and the page that will be\n# loaded on access\n@page(\"/\", \"app.jl.html\")\nend\n", 0, "c:\\Users\\abels\\personal-projects\\youtube-internal\\LikeAndSubscribe\\app.jl", 1, [1, 12, 51, 72, 84, 85, 147, 148, 178, 248, 249, 296, 307, 361, 386, 411, 439, 466, 493, 516, 542, 561, 562, 618, 642, 674, 700, 842, 843, 897, 936, 944, 945, 970, 1026, 1063, 1091, 1122, 1171, 1172, 1228, 1269, 1279, 1283, 1284, 1333, 1352, 1378, 1382]), Base.JuliaSyntax.Diagnostic[Base.JuliaSyntax.Diagnostic(851, 878, :error, "Expected `)`"), Base.JuliaSyntax.Diagnostic(895, 894, :error, "Expected `end`"), Base.JuliaSyntax.Diagnostic(895, 894, :error, "Expected `end`"), Base.JuliaSyntax.Diagnostic(895, 894, :error, "Expected `end`"), Base.JuliaSyntax.Diagnostic(895, 895, :error, "extra tokens after end of expression"), Base.JuliaSyntax.Diagnostic(940, 942, :error, "invalid identifier"), Base.JuliaSyntax.Diagnostic(1279, 1281, :error, "invalid identifier"), Base.JuliaSyntax.Diagnostic(1378, 1380, :error, "invalid identifier")], :none)), Union{Ptr{Nothing}, Base.InterpreterIP}[Ptr{Nothing} @0x00007ffde3a8690b, Ptr{Nothing} @0x00007ffde3a964ea, Ptr{Nothing} @0x00007ffde3a9601c, Ptr{Nothing} @0x00007ffde3a96ba8, Ptr{Nothing} @0x00007ffde3a979ae, Base.InterpreterIP in top-level CodeInfo for Revise at statement 0])
+└ @ Revise C:\Users\abels\.julia\packages\Revise\bAgL0\src\packagedef.jl:724
+┌ Error: 2024-05-29 21:25:22 Failed to revise c:\Users\abels\personal-projects\youtube-internal\LikeAndSubscribe\app.jl
+│   exception = (Base.Meta.ParseError("ParseError:\n# Error @ c:\\Users\\abels\\personal-projects\\youtube-internal\\LikeAndSubscribe\\app.jl:29:9\n\n        F(β) = [\n#       └─┘ ── Expected `)`", Base.JuliaSyntax.ParseError(Base.JuliaSyntax.SourceFile("module App\n# set up Genie development environment\nusing GenieFramework\n@genietools\n\nusing CSV, DataFrames, LinearAlgebra, ADNLPModels, JSOSolvers\n\n# add your data analysis code\ndata = CSV.read(joinpath(@__DIR__, \"data\", \"thurber.csv\"), DataFrame)\n\n# add reactive code to make the UI interactive\n@app begin\n    # reactive variables are tagged with @in and @out\n    @out data_x = data.x\n    @out data_y = data.y\n    @in trigger_fit = false\n    @out fit_x = Float64[]\n    @out fit_y = Float64[]\n    @in top_degree = 1\n    @in bottom_degree = 1\n    # @in λ = 1.0\n\n    # watch a variable and execute a block of code when\n    # its value changes\n    @onbutton trigger_fit begin\n        n = size(data, 1)\n        model(β, x) = (β[1] + sum(β[i + 1] * x^i for i = 1:top_degree)) / (1.0 + sum(β[i + 1 + top_degree] * x^i for i = 1:bottom_degree)\n\n        F(β) = [\n            model(β, data.x[i]) - data.y[i] for i = 1:n\n        ]\n\n        fit_x = range(extrema(data.x)..., length=100)\n        fit_y = β[1] .+ β[2] * fit_x\n    end\n\n    # @onchange λ begin\n    #     # the values of result and msg in the UI will\n    #     # be automatically updated\n    #     n = size(data, 1)\n    #     X = [ones(n) data.x]\n    #     β = (X' * X + λ * I) \\ (X' * data.y)\n\n    #     fit_x = range(extrema(data.x)..., length=100)\n    #     fit_y = β[1] .+ β[2] * fit_x\n    # end\nend\n\n# register a new route and the page that will be\n# loaded on access\n@page(\"/\", \"app.jl.html\")\nend\n", 0, "c:\\Users\\abels\\personal-projects\\youtube-internal\\LikeAndSubscribe\\app.jl", 1, [1, 12, 51, 72, 84, 85, 147, 148, 178, 248, 249, 296, 307, 361, 386, 411, 439, 466, 493, 516, 542, 561, 562, 618, 642, 674, 700, 842, 843, 861, 918, 928, 929, 983, 1022, 1030, 1031, 1056, 1112, 1149, 1177, 1208, 1257, 1258, 1314, 1355, 1365, 1369, 1370, 1419, 1438, 1464, 1468]), Base.JuliaSyntax.Diagnostic[Base.JuliaSyntax.Diagnostic(851, 854, :error, "Expected `)`")], :none)), Union{Ptr{Nothing}, Base.InterpreterIP}[Ptr{Nothing} @0x00007ffde3a8690b, Ptr{Nothing} @0x00007ffde3a964ea, Ptr{Nothing} @0x00007ffde3a9601c, Ptr{Nothing} @0x00007ffde3a96ba8, Ptr{Nothing} @0x00007ffde3a979ae, Base.InterpreterIP in top-level CodeInfo for Revise at statement 0])
+└ @ Revise C:\Users\abels\.julia\packages\Revise\bAgL0\src\packagedef.jl:724
+┌ Error: 2024-05-29 21:25:24 Failed to revise c:\Users\abels\personal-projects\youtube-internal\LikeAndSubscribe\app.jl
+│   exception = (Base.Meta.ParseError("ParseError:\n# Error @ c:\\Users\\abels\\personal-projects\\youtube-internal\\LikeAndSubscribe\\app.jl:29:9\n\n        F(β) = [\n#       └─┘ ── Expected `)`", Base.JuliaSyntax.ParseError(Base.JuliaSyntax.SourceFile("module App\n# set up Genie development environment\nusing GenieFramework\n@genietools\n\nusing CSV, DataFrames, LinearAlgebra, ADNLPModels, JSOSolvers\n\n# add your data analysis code\ndata = CSV.read(joinpath(@__DIR__, \"data\", \"thurber.csv\"), DataFrame)\n\n# add reactive code to make the UI interactive\n@app begin\n    # reactive variables are tagged with @in and @out\n    @out data_x = data.x\n    @out data_y = data.y\n    @in trigger_fit = false\n    @out fit_x = Float64[]\n    @out fit_y = Float64[]\n    @in top_degree = 1\n    @in bottom_degree = 1\n    # @in λ = 1.0\n\n    # watch a variable and execute a block of code when\n    # its value changes\n    @onbutton trigger_fit begin\n        n = size(data, 1)\n        model(β, x) = (β[1] + sum(β[i + 1] * x^i for i = 1:top_degree)) / (1.0 + sum(β[i + 1 + top_degree] * x^i for i = 1:bottom_degree)\n\n        F(β) = [\n            model(β, data.x[i]) - data.y[i] for i = 1:n\n        ]\n\n        fit_x = range(extrema(data.x)..., length=100)\n        fit_y = β[1] .+ β[2] * fit_x\n    end\n\n    # @onchange λ begin\n    #     # the values of result and msg in the UI will\n    #     # be automatically updated\n    #     n = size(data, 1)\n    #     X = [ones(n) data.x]\n    #     β = (X' * X + λ * I) \\ (X' * data.y)\n\n    #     fit_x = range(extrema(data.x)..., length=100)\n    #     fit_y = β[1] .+ β[2] * fit_x\n    # end\nend\n\n# register a new route and the page that will be\n# loaded on access\n@page(\"/\", \"app.jl.html\")\nend\n", 0, "c:\\Users\\abels\\personal-projects\\youtube-internal\\LikeAndSubscribe\\app.jl", 1, [1, 12, 51, 72, 84, 85, 147, 148, 178, 248, 249, 296, 307, 361, 386, 411, 439, 466, 493, 516, 542, 561, 562, 618, 642, 674, 700, 842, 843, 861, 918, 928, 929, 983, 1022, 1030, 1031, 1056, 1112, 1149, 1177, 1208, 1257, 1258, 1314, 1355, 1365, 1369, 1370, 1419, 1438, 1464, 1468]), Base.JuliaSyntax.Diagnostic[Base.JuliaSyntax.Diagnostic(851, 854, :error, "Expected `)`")], :none)), Union{Ptr{Nothing}, Base.InterpreterIP}[Ptr{Nothing} @0x00007ffde3a8690b, Ptr{Nothing} @0x00007ffde3a964ea, Ptr{Nothing} @0x00007ffde3a9601c, Ptr{Nothing} @0x00007ffde3a96ba8, Ptr{Nothing} @0x00007ffde3a979ae, Base.InterpreterIP in top-level CodeInfo for Revise at statement 0])
+└ @ Revise C:\Users\abels\.julia\packages\Revise\bAgL0\src\packagedef.jl:724
+┌ Info: 2024-05-29 21:29:52 Watching ["c:\\Users\\abels\\personal-projects\\youtube-internal\\LikeAndSubscribe"]
+└ @ GenieAutoReload C:\Users\abels\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-05-29 21:30:02 Watching ["c:\\Users\\abels\\personal-projects\\youtube-internal\\LikeAndSubscribe"]
+└ @ GenieAutoReload C:\Users\abels\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:19
+┌ Info: 2024-05-29 21:30:03 
+│ Web Server starting at http://127.0.0.1:9101?CHANNEL__=KXFORFODWFRXKGAPUNWMCLPOFXAGNAMB 
+└ @ Genie.Server C:\Users\abels\.julia\packages\Genie\w41yU\src\Server.jl:182
+┌ Info: 2024-05-29 21:30:03 Listening on: 127.0.0.1:9101, thread id: 1
+└ @ HTTP.Servers C:\Users\abels\.julia\packages\HTTP\sJD5V\src\Servers.jl:382
+┌ Info: 2024-05-29 21:31:03 Autoreloading
+└ @ GenieAutoReload C:\Users\abels\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-05-29 21:31:08 Autoreloading
+└ @ GenieAutoReload C:\Users\abels\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-05-29 21:31:11 Autoreloading
+└ @ GenieAutoReload C:\Users\abels\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-05-29 21:31:14 Autoreloading
+└ @ GenieAutoReload C:\Users\abels\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-05-29 21:31:17 Autoreloading
+└ @ GenieAutoReload C:\Users\abels\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-05-29 21:31:21 Autoreloading
+└ @ GenieAutoReload C:\Users\abels\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Error: 2024-05-29 21:31:39 not a descent direction
+│   slope = 0.0
+│   ∇fNorm2 = 0.057419880211878264
+│   sNorm = 0.0
+└ @ JSOSolvers C:\Users\abels\.julia\packages\JSOSolvers\0pM06\src\trunkls.jl:312
+┌ Error: 2024-05-29 21:32:32 not a descent direction
+│   slope = 0.0
+│   ∇fNorm2 = 0.007157309035192922
+│   sNorm = 0.0
+└ @ JSOSolvers C:\Users\abels\.julia\packages\JSOSolvers\0pM06\src\trunkls.jl:312
+┌ Error: 2024-05-29 21:32:37 not a descent direction
+│   slope = 0.0
+│   ∇fNorm2 = 0.5769225639736513
+│   sNorm = 0.0
+└ @ JSOSolvers C:\Users\abels\.julia\packages\JSOSolvers\0pM06\src\trunkls.jl:312
+┌ Error: 2024-05-29 21:32:38 not a descent direction
+│   slope = 0.0
+│   ∇fNorm2 = 0.006537690763792427
+│   sNorm = 0.0
+└ @ JSOSolvers C:\Users\abels\.julia\packages\JSOSolvers\0pM06\src\trunkls.jl:312
+┌ Error: 2024-05-29 21:33:05 not a descent direction
+│   slope = 0.0
+│   ∇fNorm2 = 0.004886577540110999
+│   sNorm = 0.0
+└ @ JSOSolvers C:\Users\abels\.julia\packages\JSOSolvers\0pM06\src\trunkls.jl:312
+┌ Info: 2024-05-29 21:34:48 Autoreloading
+└ @ GenieAutoReload C:\Users\abels\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Error: 2024-05-29 21:35:03 not a descent direction
+│   slope = 0.0
+│   ∇fNorm2 = 0.0019828701464272864
+│   sNorm = 0.0
+└ @ JSOSolvers C:\Users\abels\.julia\packages\JSOSolvers\0pM06\src\trunkls.jl:312
+┌ Info: 2024-05-29 21:36:38 Autoreloading
+└ @ GenieAutoReload C:\Users\abels\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-05-29 21:36:44 Autoreloading
+└ @ GenieAutoReload C:\Users\abels\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-05-29 21:36:48 Autoreloading
+└ @ GenieAutoReload C:\Users\abels\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-05-29 21:37:06 Autoreloading
+└ @ GenieAutoReload C:\Users\abels\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-05-29 21:37:15 Autoreloading
+└ @ GenieAutoReload C:\Users\abels\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-05-29 21:37:34 Autoreloading
+└ @ GenieAutoReload C:\Users\abels\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-05-29 21:37:45 Autoreloading
+└ @ GenieAutoReload C:\Users\abels\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-05-29 21:38:03 Autoreloading
+└ @ GenieAutoReload C:\Users\abels\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Error: 2024-05-29 21:38:08 not a descent direction
+│   slope = 0.0
+│   ∇fNorm2 = 0.0030629993976196697
+│   sNorm = 0.0
+└ @ JSOSolvers C:\Users\abels\.julia\packages\JSOSolvers\0pM06\src\trunkls.jl:312
+┌ Info: 2024-05-29 21:38:46 Autoreloading
+└ @ GenieAutoReload C:\Users\abels\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-05-29 21:39:53 Autoreloading
+└ @ GenieAutoReload C:\Users\abels\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-05-29 21:40:18 Autoreloading
+└ @ GenieAutoReload C:\Users\abels\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Error: 2024-05-29 21:40:38 not a descent direction
+│   slope = 0.0
+│   ∇fNorm2 = 0.0020957323085982753
+│   sNorm = 0.0
+└ @ JSOSolvers C:\Users\abels\.julia\packages\JSOSolvers\0pM06\src\trunkls.jl:312
+┌ Info: 2024-05-29 21:41:59 Autoreloading
+└ @ GenieAutoReload C:\Users\abels\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-05-29 21:43:10 Autoreloading
+└ @ GenieAutoReload C:\Users\abels\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-05-29 21:43:14 Autoreloading
+└ @ GenieAutoReload C:\Users\abels\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-05-29 21:43:36 Autoreloading
+└ @ GenieAutoReload C:\Users\abels\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22
+┌ Info: 2024-05-29 21:43:41 Autoreloading
+└ @ GenieAutoReload C:\Users\abels\.julia\packages\GenieAutoReload\ESvsh\src\GenieAutoReload.jl:22

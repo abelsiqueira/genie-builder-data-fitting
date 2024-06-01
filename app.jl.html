@@ -1,0 +1,13 @@
+<h1>Data fitting</h1>
+<div class="row">
+    <div id="ibi3" class="st-col col-12 col-sm st-module">
+        <plotly id="ifvv" data="W3siZ2J0eXBlIjoiU2NhdHRlciIsIngiOiIkX3tkYXRhX3h9IiwieSI6IiRfe2RhdGFfeX0iLCJ0eXBlIjoic2NhdHRlciIsIm1vZGUiOiJtYXJrZXJzIiwibmFtZSI6IkRhdGEifSx7IngiOiIkX3tmaXRfeH0iLCJ5IjoiJF97Zml0X3l9IiwidHlwZSI6InNjYXR0ZXIiLCJuYW1lIjoiRml0In1d" config="e30=" layout="eyJ0aXRsZSI6IkRhdGEgJiBGaXQifQ=="></plotly>
+    </div>
+    <div id="ia7tp" class="st-col col-12 col-sm st-module">
+        <q-slider id="iuti3" color="primary" :label="true" :max="5" :min="1" :step="1" v-model="top_degree" :label-always="true"></q-slider>
+        <div class="row"></div>
+        <q-slider id="iwczh" color="primary" :label="true" :max="5" :min="1" :step="1" :label-always="true" v-model="bottom_degree"></q-slider>
+        <q-btn id="iu768" color="red" icon="remove_red_eye" label="fit" v-on:click="trigger_fit=true"></q-btn>
+        <p v-html="solver_output" id="i0iv8"></p>
+    </div>
+</div>
